@@ -14,3 +14,11 @@ A vrep simulation of a quadcopter performing autonmous exploration is an unknown
 ## Notes
 * The axis is defined as the x axis to the right and y axis up with the origin at the bottom left corner, as viewed from the top.(As represented by a Origin dummy object in the vrep scene in this repository)
 
+Please see the pdf report Coverage_Planning_with_Multicopters for more details of the implementation and references.
+
+This was the final project of ENPM661 Planning for Robotic Systems at the University of Maryland, College Park. 
+
+**Contributors:**
+1. Ashwin Kuruttukulam
+2. Mithun Bharadwaj
+3. Rachith Prakash
